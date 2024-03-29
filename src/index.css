@@ -5,7 +5,5 @@
 }
 
 .page {
-    /* display: flex; */
-    /* align-items: center; */
-    flex: 11;
+    flex: 7;
 }
